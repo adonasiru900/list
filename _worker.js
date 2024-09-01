@@ -22,12 +22,7 @@ vless://978b0f41-fb99-48e2-a5f4-bf70a74fd62f@xui12.feimails.com:20032?type=tcp&s
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICIxNzJ2bSIsCiAgImFkZCI6ICJ4dWkxMi5mZWltYWlscy5jb20iLAogICJwb3J0IjogMjAwMzEsCiAgImlkIjogIjk3OGIwZjQxLWZiOTktNDhlMi1hNWY0LWJmNzBhNzRmZDYyZiIsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiAibm9uZSIsCiAgImhvc3QiOiAiIiwKICAicGF0aCI6ICIvIiwKICAiYXV0aG9yaXR5IjogIiIsCiAgInRscyI6ICJub25lIiwKICAic25pIjogIiIsCiAgImZwIjogIiIKfQ==
 `
 
-let urls = [
-      https://miaona.fun/api/v1/client/subscribe?token=f68b0242a61d6505377fdd4813c00af9,
-      https://gbshct.spphhnhg.top/link/mLCgjK8pBagcWjz0?sub=3&extend=1,
-      https://sub.ssr.sh/link/noX2gTEIPb8xkxiy?mu=1,
-
-];
+let urls = [];
 let subconverter = "SUBAPI.fxxk.dedyn.io"; //在线订阅转换后端，目前使用CM的订阅转换功能。支持自建psub 可自行搭建https://github.com/bulianglin/psub
 let subconfig = "https://raw.githubusercontent.com/adonasiru900/NGDY/main/lsit.ini?token=GHSAT0AAAAAACW4AHG2PMALXGUCWBVIXVQKZWUVHHQ"; //订阅配置文件
 let subProtocol = 'https';
